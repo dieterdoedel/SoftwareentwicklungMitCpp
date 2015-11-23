@@ -1,0 +1,2 @@
+# SoftwareentwicklungMitCpp
+Aufgaben zum Buch
